@@ -25,9 +25,7 @@ def viewbook(request, bookId):
     book3 = {
         'id': 1,
         'title': 'CS',
-        'author': 'Lamis ALorini',
-        'Description': 'student'
-    }
+        'author': 'Lamis ALorini'    }
 
     targetBook = None
 
